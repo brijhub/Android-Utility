@@ -1,0 +1,3 @@
+rootProject.name='UtilitySample'
+include ':app'
+include ':utility'
